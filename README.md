@@ -145,9 +145,9 @@ Attribution is required if reused.
 ## 🛠️ Tools Required to Run This Project
 To explore, run, or replicate this project, the following tools are recommended:
 
-Microsoft Excel – For quick reviews and exporting intermediate datasets
-MySQL Workbench – For data cleaning and SQL-based analysis
-Power BI Desktop – For data visualization and dashboard creation
+* Microsoft Excel – For quick reviews and exporting intermediate datasets
+* MySQL Workbench – For data cleaning and SQL-based analysis
+* Power BI Desktop – For data visualization and dashboard creation
 
 ***
 
