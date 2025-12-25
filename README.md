@@ -112,10 +112,9 @@ The project demonstrates a complete analytics workflow — from raw CSV data and
 | `01_Bank_Loan_Data`    | `bank_loan_master_clean.csv`                      | Cleaned and standardized master dataset used for analysis and dashboard development.                   |
 | `02_SQL_Scripts`       | `bank_loan_analysis.sql`                          | SQL scripts for database creation, data cleaning, KPI calculations, and analytical queries.            |
 | `03_Dashboard_PowerBI` | `Bank_Loan_Analysis.pbix`                         | Interactive Power BI dashboard visualizing KPIs, trends, and loan performance metrics.                 |
-| `04_Deliverables`      | `Presentation_Slides.pptx`, `Project_Summary.pdf` | Final project presentation and summarized analytical report.                                           |
+| `04_Deliverables`      | `Presentation_Slides.pptx` | Final project presentation and summarized analytical report.                                           |
 | `05_Visuals`           | `dashboard_screenshots.png`                       | Exported images of dashboards used for documentation and GitHub preview.                               |
-| `06_Bank_Loan_Analysis_Explanation_Video.`           | `Project Walkthrough Video`                       | Short video walkthrough explaining KPIs, dashboards, filters, and key analytical insights.
-🔗 Video Summary: https://drive.google.com/file/d/1bukRfuue5L9ve0OtGyGBk7I-TjFAhZmD/view.                               |
+| `06_Bank_Loan_Analysis_Explanation_Video.`           | `Project Walkthrough Video`                       | Short video walkthrough explaining KPIs, dashboards, filters, and key analytical insights.🔗 Video Summary: https://drive.google.com/file/d/1bukRfuue5L9ve0OtGyGBk7I-TjFAhZmD/view.                               |
 | `README.md`            | Project documentation                             | Complete project overview, methodology, KPIs, dashboards, and insights.                                |
 
 
