@@ -116,17 +116,15 @@ The project demonstrates a complete analytics workflow — from raw CSV data and
 | `05_Visuals`           | `dashboard_screenshots.png`                       | Exported images of dashboards used for documentation and GitHub preview.                               |
 | `06_Bank_Loan_Analysis_Explanation_Video.`           | `Project Walkthrough Video`                       | Short video walkthrough explaining KPIs, dashboards, filters, and key analytical insights.🔗 Video Summary: https://drive.google.com/file/d/1bukRfuue5L9ve0OtGyGBk7I-TjFAhZmD/view.                               |
 | `README.md`            | Project documentation                             | Complete project overview, methodology, KPIs, dashboards, and insights.                                |
-
-
-
+***
 
 ## 📁 Documents Attached
 
-bank_loan_master_clean.csv - Cleaned Dataset .csv File
-Bank Loan Analysis Dashboard tm.pbix – Power BI Dashboard File
-bank_loan_analytics.sql – SQL Script for data prep
-Bank Loan Presenation.pptx – Project summary slide deck
-Bank Loan Analysis Explanation Video.mp4 – Project Explanation Video
+* bank_loan_master_clean.csv - Cleaned Dataset .csv File
+* bank_loan_analytics.sql – SQL Script for data prep
+* Bank Loan Analysis Dashboard tm.pbix – Power BI Dashboard File
+* Bank Loan Presenation.pptx – Project summary slide deck
+* Bank Loan Analysis Explanation Video.mp4 – Project Explanation Video
 
 ## 🧠 Limitations
 
@@ -136,7 +134,7 @@ Bank Loan Analysis Explanation Video.mp4 – Project Explanation Video
 * No real-time loan updates
 
 ## 🙋‍♀️ Author
-Mohammad Faiz
+**Mohammad Faiz**
 ✉ faiz288fz@gmail.com
 Linkedin : [Mohammad Faiz](https://www.linkedin.com/in/mohammad-faiz-51674a282/)
 
